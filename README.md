@@ -18,3 +18,4 @@ This repository will hold the contents of the exercise designed for completion a
 ## Key documents <a name="Key_documents"></a>
 
 ## Licenses <a name="Licenses"></a>
+The contents of this repository are licensed with a Mozilla public licence: https://www.mozilla.org/en-US/MPL/2.0/ 
